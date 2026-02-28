@@ -10,7 +10,9 @@ Documentation for SCC (horizontally scalable cluster) is available at https://gi
 
 ## Installation
 
-Setup the `socketcluster` command:
+First, set up Node.js on your machine.
+
+Then set up the `socketcluster` command:
 
 ```bash
 npm install -g socketcluster
